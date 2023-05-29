@@ -1,0 +1,16 @@
+
+html, body {
+    height: 100%;
+}
+body{
+    background-image: url("bgimage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+form {
+    padding: 25px;
+    flex: content;
+
+}
