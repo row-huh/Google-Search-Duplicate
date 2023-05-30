@@ -1,4 +1,3 @@
-
 html, body {
     height: 100%;
 }
@@ -12,5 +11,5 @@ body{
 form {
     padding: 25px;
     flex: content;
-
+    flex-wrap: wrap;
 }
