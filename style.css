@@ -1,15 +1,10 @@
-html, body {
-    height: 100%;
-}
-body{
-    background-image: url("bgimage.jpg");
+body {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-image: url('bgimage.jpg');
     background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-}
-
-form {
-    padding: 25px;
-    flex: content;
-    flex-wrap: wrap;
+    z-index: -1;
 }
