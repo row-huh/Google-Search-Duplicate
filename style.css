@@ -6,16 +6,20 @@ body {
     background-size: cover;
 }
 
-form input[type="text"] {
-    display: block;
-    width: 50%;
-
-
-}
 
 .input-elements {
-    display: flex; 
-    justify-content: center; 
-    align-items: center; 
-    height: 100vh;
+    position: fixed;
+    top: 50%;
+    bottom: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
+
+#searchbar {
+    width: 500px;
+    padding: 5px;
+    margin: 5px;
+    border: 5px solid #7b3982;
+    border-radius: 15px;
+}
+
