@@ -31,4 +31,7 @@ body {
     color: aliceblue;
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    width: 120px;
+    height: 30px;
 }
