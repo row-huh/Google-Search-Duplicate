@@ -1,11 +1,13 @@
-html {
-    height: 100vh;
-}
-
-html {
+body {
     background-image: url(bgimage.jpg);
     background-repeat: no-repeat;
-    background-attachment: fixed !important;
+    background-attachment: fixed;
     background-position: center;
     background-size: cover;
+}
+
+form input[type="text"] {
+    width: 500px;
+    margin: 5px;
+    align-self: center;
 }
