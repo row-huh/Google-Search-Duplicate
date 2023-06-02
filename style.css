@@ -1,10 +1,7 @@
-body {
-    background-image: url(bgimage.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    background-size: cover;
+html {
+    background-color: white;
 }
+
 
 
 .input-elements {
