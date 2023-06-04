@@ -14,19 +14,19 @@ html {
     width: 500px;
     padding: 5px;
     margin: 5px;
-    border: 5px solid #7b3982;
+    border: 1px solid grey;
     border-radius: 15px;
 }
 
-#submitbutton {
-    background-color: #7b3982;
-}
+
 
 #submitbutton {
-    color: aliceblue;
+    background-color: #f4f4f5;
+    color: black;
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border-radius: 10px;
     width: 120px;
     height: 30px;
+    left: 50%;
 }
