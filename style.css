@@ -1,4 +1,3 @@
-
 .input-elements {
     position: fixed;
     top: 45%;
@@ -24,4 +23,15 @@
     width: 120px;
     height: 30px;
     left: 50%;
+}
+
+#logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: -30%;
+    left: 0;
+    right: 0;
+    bottom: 0%;
 }
