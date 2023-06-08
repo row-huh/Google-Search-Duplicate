@@ -16,10 +16,13 @@
 }
 
 
-#submitbutton {
+.submitbutton {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+#googlesearch{
     height: 200px;
     background-color: #f4f4f5;
     color: black;
@@ -31,7 +34,6 @@
     border: 1px grey;
     
 }
-
 #logo {
     display: flex;
     justify-content: center;
