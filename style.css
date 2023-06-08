@@ -17,6 +17,10 @@
 
 
 #submitbutton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
     background-color: #f4f4f5;
     color: black;
     text-align: center;
@@ -24,8 +28,8 @@
     border-radius: 10px;
     width: 120px;
     height: 40px;
-    left: 50%;
     border: 1px grey;
+    
 }
 
 #logo {
