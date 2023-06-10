@@ -22,7 +22,7 @@
     align-items: center;
 }
 
-#googlesearch{
+#googlesearch, #lucky{
     height: 200px;
     background-color: #f4f4f5;
     color: black;
@@ -32,8 +32,12 @@
     width: 120px;
     height: 40px;
     border: 1px grey;
+    margin: 8px;
     
 }
+
+
+
 #logo {
     display: flex;
     justify-content: center;
