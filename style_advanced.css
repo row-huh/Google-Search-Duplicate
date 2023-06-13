@@ -23,7 +23,9 @@ h3 {
 
 
 hr {
-    font-weight: 10;
+    height: 1px;
+    background-color: #eee;
+    border: 0;
 }
 
 td {
