@@ -14,3 +14,7 @@ h3 {
     font-weight: lighter;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.inputbar {
+    margin: 5px;
+}
