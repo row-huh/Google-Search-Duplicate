@@ -17,4 +17,6 @@ h3 {
 
 .inputbar {
     margin: 5px;
+    width: 500px;
+    height: 20px;
 }
