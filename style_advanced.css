@@ -1,5 +1,6 @@
 #top-left-logo {
     width: 80px;
+    margin: 10px;
 }
 
 
@@ -8,9 +9,11 @@ h1 {
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: lighter;
+    margin-left: 20px;
 }
 
 h3 {
+    margin-left: 20px;
     font-weight: lighter;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -31,4 +34,8 @@ hr {
 td {
     font-family: Arial, Helvetica, sans-serif;
     font-size: small;
+}
+
+table {
+    margin-left: 20px;
 }
