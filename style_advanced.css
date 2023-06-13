@@ -22,10 +22,12 @@ h3 {
     margin: 5px;
     width: 500px;
     height: 20px;
-    border-width: 1px;
-    border-color: lightgray;
+    border: 2px solid lightslategray;
 }
 
+.inputbar:focus {
+    border: 2px solid yellow !important;
+}
 
 hr {
     height: 1px;
