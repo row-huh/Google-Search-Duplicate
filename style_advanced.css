@@ -1,3 +1,11 @@
 #top-left-logo {
-    size: 5px;
+    width: 80px;
+}
+
+
+h1 {
+    color: #99614b;
+    font-size: large;
+    font-family:arial,sans-serif;
+    font-weight: lighter;
 }
