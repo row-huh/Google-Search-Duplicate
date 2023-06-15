@@ -51,12 +51,17 @@
 
 #advancedlink {
     position:absolute;
-    top: 0;
+    top: 8px;
     right: 10px;
 
 }
 #imagelink {
     position: absolute;
-    top: 0;
+    top: 8px;
     right: 130px;
+}
+
+#backhome {
+    display: flex;
+    justify-content: flex-end;
 }
