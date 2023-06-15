@@ -43,3 +43,7 @@ td {
 table {
     margin-left: 20px;
 }
+a {
+    display: flex;
+    justify-content: flex-end;
+}

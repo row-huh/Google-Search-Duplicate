@@ -49,7 +49,14 @@
     color: aliceblue;
 }
 
-a {
-    display: flex;
-    justify-content: flex-end;
+#advancedlink {
+    position:absolute;
+    top: 0;
+    right: 10px;
+
+}
+#imagelink {
+    position: absolute;
+    top: 0;
+    right: 130px;
 }
