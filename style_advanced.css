@@ -47,3 +47,16 @@ a {
     display: flex;
     justify-content: flex-end;
 }
+
+#advancedbutton {
+    margin-top: 30px;
+    margin-left: 550px;
+    background-color: #498AF3;
+    color: white;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 5px;
+    width: 120px;
+    height: 40px;
+    border: 1px grey;
+}
