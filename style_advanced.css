@@ -48,20 +48,15 @@ a {
     justify-content: flex-end;
 }
 
-.advancedbutton {
-    position: fixed;
-    top: 45%;
-    bottom: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color: #f4f4f5;
-    color: black;
+#advancedbutton {
+    margin-top: 30px;
+    margin-left: 550px;
+    background-color: #498AF3;
+    color: white;
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border-radius: 5px;
     width: 120px;
     height: 40px;
     border: 1px grey;
-    margin: 8px;
-    
 }
