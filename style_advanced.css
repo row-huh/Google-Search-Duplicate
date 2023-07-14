@@ -47,3 +47,11 @@ a {
     display: flex;
     justify-content: flex-end;
 }
+
+#submitbutton {
+    margin-top: 10px;
+    margin-left: 630px;
+    background-color: #4B8DF8;
+    color: white;
+    text-align: center;
+}
