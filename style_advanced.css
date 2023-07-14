@@ -50,8 +50,10 @@ a {
 
 #submitbutton {
     margin-top: 10px;
-    margin-left: 630px;
+    margin-left: 560px;
     background-color: #4B8DF8;
     color: white;
     text-align: center;
+    height: 30px;
+    width: 140px;
 }
