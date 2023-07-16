@@ -37,6 +37,10 @@
 }
 
 
+#searchimage {
+    margin-top: 15px;
+}
+
 
 #logo {
     display: flex;
@@ -64,4 +68,14 @@
 #backhome {
     display: flex;
     justify-content: flex-end;
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+p {
+    color: #4487F6;
+    font-family: 'Trebuchet MS',sans-serif;
+    margin-top: 90px;
+    margin-left: -40px;
+    size: 20px;
 }
