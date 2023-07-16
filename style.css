@@ -74,5 +74,8 @@
 
 p {
     color: #4487F6;
-font-family: 'Trebuchet MS',sans-serif;
+    font-family: 'Trebuchet MS',sans-serif;
+    margin-top: 90px;
+    margin-left: -40px;
+    size: 20px;
 }
