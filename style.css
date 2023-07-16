@@ -22,7 +22,7 @@
     align-items: center;
 }
 
-#googlesearch, #lucky{
+#googlesearch, #lucky, #searchimage{
     height: 200px;
     background-color: #f4f4f5;
     color: black;
